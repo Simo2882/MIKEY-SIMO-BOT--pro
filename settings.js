@@ -11,20 +11,20 @@ global.socialm = "GitHub: andymrlit" //ur github or insta name
 global.location = "Haïti, USA" //ur location
 
 //new
-global.botname = 'XKY BOT MD' //ur bot name
-global.ownernumber = '50943772445' //ur owner number
-global.ownername = '🍁🎶𝑀𝑅_𝑂𝐿𝐼 🔱' //ur owner name
-global.websitex = "https://www.youtube.com/@andymd"
-global.wagc = "https://chat.whatsapp.com/Cf1q8yZsEMlIfrZkCeHeQH"
+global.botname = '@/مـايــكـــي••• ✌︎⃢🤴🏻' //ur bot name
+global.ownernumber = '212644771888' //ur owner number
+global.ownername = '@/مـايــكـــي••• ✌︎⃢🤴🏻' //ur owner name
+global.websitex = "https://www.instagram.com/simo.belfarsi"
+global.wagc = "https://chat.whatsapp.com/Br3PXVzyoUxETvFwmeit8w"
 global.themeemoji = '🪀'
 global.wm = "XKY Bot Inc."
 global.ram_usage = 900000000
-global.botscript = 'https://github.com/andymrlit/XKYV2' //script link
+global.botscript = 'https://github.com/Simo2882/MIKEY-SIMO-BOT--pro' //script link
 global.packname = "Sticker By"
 global.author = "TEAM XKY BOT"
 global.creator = "17862755061@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["17862755061"] // Premium User
+global.premium = ["212644771888"] // Premium User
 global.hituet = 0
 
 //bot sett
